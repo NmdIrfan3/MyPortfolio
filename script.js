@@ -73,6 +73,6 @@ $(document).ready(function () {
 });
 function resume() {
   window.open(
-    "https://drive.google.com/file/d/1Cen1y6vqCX9okkApg5uk8CWB6OSNNXhX/view?usp=sharing"
+    "https://drive.google.com/file/d/1OEH3S7Nw_PceyvBPbSXa5yFAfmIxqSC5/view?usp=sharing"
   );
 }
